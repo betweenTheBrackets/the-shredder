@@ -2,7 +2,7 @@
 
 # The Shredder: An Amusingly Absurdly Indispensable Post-Processor for TypeScript
 
-![The Shredder](//the_shredder.png)
+![The Shredder](https://github.com/betweenTheBrackets/the-shredder/blob/main/the_shredder.png?raw=true)
 
 Because who needs comments anyway, right? They are just clutter, notes for the weak. You, my friend, are a coding Spartan. Your code is so transparent, so self-explanatory, that even a toddler who has just discovered the joys of gnawing on the mouse cord could understand it. You just vomit out self-documenting code. Who cares about future you? Or any other developer who might dare to delve into your flawless logic? Nah, comments are for chumps.
 
